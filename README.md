@@ -9,3 +9,6 @@
   
 ### 📙 The latest blog posts:
 - [gRPC Integration Experience](https://tproger.ru/articles/grpc-integration-experience/)
+
+### 👨‍🎓 Education
+- [![Follow me on Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Yaroslav835650)
