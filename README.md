@@ -7,7 +7,7 @@
 - 📫 Reach me there: [y.brahinets@gmail.com](mailto:y.brahinets@gmail.com)
   
 ## 📙 The latest blog posts:
-- [gRPC - RPC is back??](https://spd-ukraine.medium.com/grpc-rpc-is-back-921da7a1de29)
+- [gRPC - RPC is back?](https://spd-ukraine.medium.com/grpc-rpc-is-back-921da7a1de29)
 - [gRPC Integration Experience](https://tproger.ru/articles/grpc-integration-experience/)
 
 ## Outside of coding I enjoy
