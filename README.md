@@ -11,7 +11,7 @@
 - [gRPC Integration Experience](https://tproger.ru/articles/grpc-integration-experience/)
 
 ### 👨‍🎓 Learning in spare time
-- [![Follow me on Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Yaroslav835650)
+[![Follow me on Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Yaroslav835650)
 
 ### 🎮 Sometimes I'm playing games
   ![ysb#2173](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
