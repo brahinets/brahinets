@@ -1,4 +1,4 @@
-### Howdy, mates! 👋
+### Howdy, mates! I'm Yaroslav👋
 
 - 🔭 I’m currently working on [PitchBook](https://pitchbook.com) at [SPD-Ukraine](https://spd-ukraine.com) 
 - 🌱 I’m currently mentoring on [GeekHub](https://geekhub.ck.ua)
