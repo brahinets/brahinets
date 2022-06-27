@@ -6,3 +6,6 @@
 - 👯 I’m looking to collaborate on traveling
 - 📫 How to reach me: y.brahinets@gmail.com
 - ⚡ Fun fact: Passionated runner and cyclist. Find me in [Strava](https://www.strava.com/athletes/ybrahinets)
+
+📙 The latest blog posts:
+-- [gRPC Integration Experience](https://tproger.ru/articles/grpc-integration-experience/)
