@@ -1,6 +1,7 @@
 ### Howdy, mates! I'm _Yaroslav_, Team Leader at [SPD Group](https://spd.group/author/y-brahinets/) and Oracle Certified Java Developer. Working on [PitchBook platform](https://pitchbook.com)
 
-### Quick facts
+### About me
+- 🇺🇦 I am from Ukraine
 - 🌱 I’m currently mentoring on [GeekHub](https://geekhub.ck.ua) IT platform
 - 🌱 Learning Video Editing via [Adobe Premiere PRO](https://www.adobe.com/en/products/premiere.html)
 - 👯 I’m looking to collaborate on traveling, see [my Instagram](https://www.instagram.com/takeshi.1/)
