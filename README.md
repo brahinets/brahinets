@@ -1,4 +1,4 @@
-### Howdy, mates! I'm _Yaroslav_, a Backend Engineer, currently working on [PitchBook](https://pitchbook.com) at [SPD-Ukraine](https://spd-ukraine.com) 
+### Howdy, mates! I'm _Yaroslav_, Team Leader at [SPD Group](https://spd.group/author/y-brahinets/) and Oracle Certified Java Developer. Working on [PitchBook platform](https://pitchbook.com)
 
 ### Quick facts
 - 🌱 I’m currently mentoring on [GeekHub](https://geekhub.ck.ua) IT platform
