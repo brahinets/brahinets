@@ -1,4 +1,4 @@
-## Howdy, mates! I'm _Yaroslav_, Team Leader at [SPD Group](https://spd.group/author/y-brahinets/) and Oracle Certified Java Developer. Working on [PitchBook platform](https://pitchbook.com)
+## Howdy, mates! I'm _Yaroslav_, Team Leader at [SPD Group](https://spd.group/author/y-brahinets/) and Oracle Certified Java Developer. Practising and improving my skills in Identity and Access management along with Application Security within the [PitchBook platform](https://pitchbook.com) product.
 
 ## About me
 - 🇺🇦 I am from Ukraine
