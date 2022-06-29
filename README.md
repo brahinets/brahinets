@@ -17,7 +17,7 @@ Practising and improving my skills in _Identity and Access Management_ along wit
 ## Outside of coding I enjoy
 - 👟 Running and cycling. Find me in [Strava](https://www.strava.com/athletes/ybrahinets)
 - 🇫🇷 Learning French on [Duolingo](https://www.duolingo.com/profile/Yaroslav835650)
-- 📹 Learning Video Editing via [Adobe Premiere PRO](https://www.adobe.com/en/products/premiere.html)
+- 📹 Practicing Video Editing via [Adobe Premiere PRO](https://www.adobe.com/en/products/premiere.html), criticize me here - [Voyages et Sports](https://www.youtube.com/channel/UC3k03B6omo_qA4k48A4V3JQ)
 - 🎮 Sometimes I'm playing games 
 ![ysb#2173](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 ![paradoxxx_ua](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
