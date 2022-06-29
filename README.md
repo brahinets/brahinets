@@ -1,8 +1,12 @@
-## Howdy, mates! I'm _Yaroslav_, Team Leader at [SPD Group](https://spd.group/author/y-brahinets/) and Oracle Certified Java Developer. Practising and improving my skills in Identity and Access management along with Application Security within the [PitchBook platform](https://pitchbook.com) product.
+## Howdy, mates 👋🏼! 
+
+I'm _Yaroslav_ - Team Leader at [SPD Group](https://spd.group/author/y-brahinets/) and Oracle Certified Java Developer. Coding with a passion since 2014
+
+Practising and improving my skills in _Identity and Access Management_ along with *Application Security* on [PitchBook](https://pitchbook.com) product
 
 ## About me
 - 🇺🇦 I am from Ukraine
-- 🌱 I’m currently mentoring on [GeekHub](https://geekhub.ck.ua) IT platform
+- 🌱 Currently mentoring on [GeekHub](https://geekhub.ck.ua) IT platform. Fifth season in a row
 - 👯 I’m looking to collaborate on traveling, see [my Instagram](https://www.instagram.com/takeshi.1/)
 - 📫 Reach me there: [y.brahinets@gmail.com](mailto:y.brahinets@gmail.com)
   
@@ -11,7 +15,7 @@
 - [gRPC Integration Experience](https://tproger.ru/articles/grpc-integration-experience/)
 
 ## Outside of coding I enjoy
-- 👟 Passionated runner and cyclist. Find me in [Strava](https://www.strava.com/athletes/ybrahinets)
+- 👟 Running and cycling. Find me in [Strava](https://www.strava.com/athletes/ybrahinets)
 - 🇫🇷 Learning French on [Duolingo](https://www.duolingo.com/profile/Yaroslav835650)
 - 📹 Learning Video Editing via [Adobe Premiere PRO](https://www.adobe.com/en/products/premiere.html)
 - 🎮 Sometimes I'm playing games 
