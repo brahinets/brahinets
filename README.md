@@ -20,7 +20,7 @@ Practising and improving my skills in _Identity and Access Management_ along wit
 - 🇫🇷 Learning French on [Duolingo](https://www.duolingo.com/profile/Yaroslav835650)
 - 📚 Check my readings out on [Goodreads](https://www.goodreads.com/user/show/77513249)
 - 💻 Workin' out my brain by [Leetcode](https://leetcode.com/brahinets) and [HackerRank](https://www.hackerrank.com/y_brahinets)
-- 📹 Practicing Video Editing via [Adobe Premiere PRO](https://www.adobe.com/en/products/premiere.html), criticize me here - [Voyages et Sports](https://www.youtube.com/channel/UC3k03B6omo_qA4k48A4V3JQ)
+- 📹 Practicing Video Editing via [Adobe Premiere PRO](https://www.adobe.com/en/products/premiere.html), give me a comment on [Voyages et Sports](https://www.youtube.com/channel/UC3k03B6omo_qA4k48A4V3JQ)
 - 🎮 Sometimes I'm playing games 
 ![ysb#2173](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 ![paradoxxx_ua](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
