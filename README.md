@@ -17,7 +17,7 @@ Practising and improving my skills in _Identity and Access Management_ along wit
 ## Outside of coding I enjoy
 - 👟 Running and cycling. Find me in [Strava](https://www.strava.com/athletes/ybrahinets)
 - 🇫🇷 Learning French on [Duolingo](https://www.duolingo.com/profile/Yaroslav835650)
-- 📚 Reading on [Goodreads](https://www.goodreads.com/user/show/77513249)
+- 📚 Check my readings out on [Goodreads](https://www.goodreads.com/user/show/77513249)
 - 💻 Workin' out my brain by [Leetcode](https://leetcode.com/brahinets) and [HackerRank](https://www.hackerrank.com/y_brahinets)
 - 📹 Practicing Video Editing via [Adobe Premiere PRO](https://www.adobe.com/en/products/premiere.html), criticize me here - [Voyages et Sports](https://www.youtube.com/channel/UC3k03B6omo_qA4k48A4V3JQ)
 - 🎮 Sometimes I'm playing games 
