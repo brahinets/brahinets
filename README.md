@@ -13,6 +13,7 @@ Practising and improving my skills in _Identity and Access Management_ along wit
 ## 📙 The latest blog posts:
 - [gRPC - RPC is back?](https://spd-ukraine.medium.com/grpc-rpc-is-back-921da7a1de29)
 - [gRPC Integration Experience](https://tproger.ru/articles/grpc-integration-experience/)
+- [Hiring Java engineers in 2022](https://spd.group/java-software-development/hire-java-developers-in-2022)
 
 ## Outside of coding I enjoy
 - 👟 Running and cycling. Find me in [Strava](https://www.strava.com/athletes/ybrahinets)
