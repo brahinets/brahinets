@@ -8,7 +8,7 @@ Practising and improving my skills in _Identity and Access Management_ along wit
 - 🇺🇦 I am from Ukraine
 - 🌱 Currently mentoring on [GeekHub](https://geekhub.ck.ua) IT platform. Sixth season in a row
 - 👯 I’m looking to collaborate on traveling, see [my Instagram](https://www.instagram.com/takeshi.1/)
-- 📫 Reach me there: [y.brahinets@gmail.com](mailto:y.brahinets@gmail.com)
+- 📫 Hit me up on [y.brahinets@gmail.com](mailto:y.brahinets@gmail.com)
   
 ## 📙 The latest blog posts:
 - [gRPC - RPC is back?](https://spd-ukraine.medium.com/grpc-rpc-is-back-921da7a1de29)
