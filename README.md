@@ -1,4 +1,4 @@
-## Enchanté 👋🏼! 
+## Enchanté 👋🏼
 
 I'm _Yaroslav_ - lifelong learner and security enthusiast. Engineering Manager at [SPD Group](https://spd.group/author/y-brahinets/). Coding with a passion since 2014. 
 
