@@ -1,4 +1,4 @@
-## Howdy, mates 👋🏼! 
+## Enchanté 👋🏼! 
 
 I'm _Yaroslav_ - lifelong learner and security enthusiast. Engineering Manager at [SPD Group](https://spd.group/author/y-brahinets/) and Oracle Certified Java Developer. Coding with a passion since 2014. 
 
