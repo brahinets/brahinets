@@ -1,11 +1,11 @@
 ## Enchanté 👋🏼
 
-I'm _Yaroslav_ - lifelong learner and security enthusiast. Engineering Manager at [SPD Group](https://spd.group/author/y-brahinets/). Coding with a passion since 2014. 
+I'm _Yarosláv_ - lifelong learner and security enthusiast. Engineering Manager at [SPD Group](https://spd.group/author/y-brahinets/). Coding with a passion since 2014. 
 
 Practising and improving my skills in _Identity and Access Management_ along with *Application Security* on [PitchBook](https://pitchbook.com) products
 
 ## About me
-- 🇺🇦 I am from Ukraine
+- 🇺🇦 Ukraine is my motherland
 - 🌱 Mentor at [GeekHub](https://geekhub.ck.ua) volunteering IT platform. Sixth season in a row
 - 👯 I’m looking to collaborate on traveling, see [my Instagram](https://www.instagram.com/takeshi.1/)
 - 📫 Hit me up on [y.brahinets@gmail.com](mailto:y.brahinets@gmail.com)
