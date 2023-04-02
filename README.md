@@ -23,7 +23,7 @@ Practising and improving my skills in _Identity and Access Management_ along wit
 - 📹 Practicing Video Editing via [Adobe Premiere PRO](https://www.adobe.com/en/products/premiere.html), give me a comment on [Voyages et Sports](https://www.youtube.com/channel/UC3k03B6omo_qA4k48A4V3JQ)
 - 🎮 Sometimes I'm playing games 
 ![ysb#2173](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-![paradoxxx_ua](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+[![paradoxxx_ua](https://img.shields.io/badge/Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/paradoxxx_ua)
 ![paradoxxx_ua](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
 ![paradoxxx_ua](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![paradoxxx_ua](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=white)
