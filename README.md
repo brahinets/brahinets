@@ -28,3 +28,7 @@ Practising and improving my skills in _Identity and Access Management_ along wit
 ![paradoxxx_ua](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![paradoxxx_ua](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=white)
 ![paradoxxx_ua](https://img.shields.io/badge/GOG-%23F5F5F5.svg?style=for-the-badge&logo=Gog&logoColor=white)
+
+## 📊 GitHub Stat:
+![](https://github-readme-stats.vercel.app/api?username=brahinets&theme=light&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=brahinets&theme=light&hide_border=true)
