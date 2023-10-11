@@ -6,7 +6,7 @@ Practising and improving my skills in _Identity and Access Management_ along wit
 
 ## About me
 - 🇺🇦 Ukraine is my motherland
-- 🌱 Mentor at [GeekHub](https://geekhub.ck.ua) volunteering IT platform. Sixth season in a row
+- 🌱 Mentor at [GeekHub](https://geekhub.ck.ua) volunteering IT platform. Seventh season in a row
 - 👯 I’m looking to collaborate on traveling, see [my Instagram](https://www.instagram.com/takeshi.1/)
 - 📫 Hit me up on [y.brahinets@gmail.com](mailto:y.brahinets@gmail.com)
   
