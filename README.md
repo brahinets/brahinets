@@ -1,6 +1,6 @@
 ## Enchanté 👋🏼
 
-I'm _Yarosláv_ - lifelong learner and security enthusiast. Engineering Manager at [SPD Group](https://spd.group/author/y-brahinets/). Coding with a passion since 2014. 
+I'm _Yarosláv_ - lifelong learner and security enthusiast. Engineering Manager at [SPD Technology](https://spd.tech/author/y-brahinets/). Coding with a passion since 2014. 
 
 Practising and improving my skills in _Identity and Access Management_ along with *Application Security* on [PitchBook](https://pitchbook.com) products
 
@@ -11,9 +11,9 @@ Practising and improving my skills in _Identity and Access Management_ along wit
 - 📫 Hit me up on [y.brahinets@gmail.com](mailto:y.brahinets@gmail.com)
   
 ## 📙 The latest blog posts:
-- [gRPC - RPC is back?](https://spd-ukraine.medium.com/grpc-rpc-is-back-921da7a1de29)
+- [gRPC - RPC is back?](https://spd-technology.medium.com/grpc-rpc-is-back-921da7a1de29)
 - [gRPC Integration Experience](https://tproger.ru/articles/grpc-integration-experience/)
-- [Hiring Java engineers in 2022](https://spd.group/java-software-development/hire-java-developers-in-2022)
+- [Hiring Java engineers in 2022](https://spd.tech/java-software-development/hire-java-developers-in-2022)
 
 ## Outside of coding I enjoy
 - 👟 Running and cycling. Find me in [Strava](https://www.strava.com/athletes/ybrahinets)
