@@ -19,7 +19,7 @@ Practising and improving my skills in _Identity and Access Management_ along wit
 - 👟 Running and cycling. Find me in [Strava](https://www.strava.com/athletes/ybrahinets)
 - 🇫🇷 Learning French on [Duolingo](https://www.duolingo.com/profile/takeshi.1)
 - 📚 Check my readings out on [Goodreads](https://www.goodreads.com/user/show/77513249)
-- 💻 Workin' out my brain by [Leetcode](https://leetcode.com/brahinets) and [HackerRank](https://www.hackerrank.com/y_brahinets)
+- 💻 Workin' out my brain by [Leetcode](https://leetcode.com/brahinets)
 - 📹 Practicing video editing, give me a comment on [Voyages et Sports](https://www.youtube.com/channel/UC3k03B6omo_qA4k48A4V3JQ)
 - 🎮 Sometimes I play games 
 ![ysb#2173](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
