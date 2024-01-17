@@ -16,15 +16,16 @@ Practising and improving my skills in _Identity and Access Management_ along wit
 - [Hiring Java engineers in 2022](https://spd.tech/java-software-development/hire-java-developers-in-2022)
 
 ## Outside of coding I enjoy
-- 👟 Running and cycling. Find me in [Strava](https://www.strava.com/athletes/ybrahinets)
-- 🇫🇷 Learning French on [Duolingo](https://www.duolingo.com/profile/takeshi.1)
+- 👟 Daily running. Follow me in [Strava](https://www.strava.com/athletes/ybrahinets)
+- 🇫🇷 3 years streak in learning french on [Duolingo](https://www.duolingo.com/profile/takeshi.1)
 - 📚 Check my readings out on [Goodreads](https://www.goodreads.com/user/show/77513249)
 - 💻 Workin' out my brain by [Leetcode](https://leetcode.com/brahinets)
-- 📹 Practicing video editing, give me a comment on [Voyages et Sports](https://www.youtube.com/channel/UC3k03B6omo_qA4k48A4V3JQ)
+- 📹 Practicing videocut, give me a comment on [Voyages et Sports](https://www.youtube.com/channel/UC3k03B6omo_qA4k48A4V3JQ)
 - 🎮 Sometimes I play games 
 ![ysb#2173](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 [![paradoxxx_ua](https://img.shields.io/badge/Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/paradoxxx_ua)
 ![paradoxxx_ua](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
+
 ![paradoxxx_ua](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![paradoxxx_ua](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=white)
 ![paradoxxx_ua](https://img.shields.io/badge/GOG-%23F5F5F5.svg?style=for-the-badge&logo=Gog&logoColor=white)
