@@ -8,6 +8,7 @@ Practising and improving my skills in _Identity and Access Management_ along wit
 - 🇺🇦 Ukraine is my motherland
 - 🌱 Mentor at [GeekHub](https://geekhub.ck.ua) volunteering IT platform. Seventh season in a row
 - 📫 Hit me up on [y.brahinets@gmail.com](mailto:y.brahinets@gmail.com)
+- 🔗 Look at my experience at [LinkedIn](https://www.linkedin.com/in/yaroslav-brahinets-a53254a0/)
   
 ## Outside of coding I enjoy
 - 👟 Daily running. Follow me in [Strava](https://www.strava.com/athletes/ybrahinets)
