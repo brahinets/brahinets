@@ -7,9 +7,11 @@ Practising and improving my skills in _Identity and Access Management_ along wit
 ## About me
 - 🇺🇦 Ukraine is my motherland
 - 🌱 Mentor at [GeekHub](https://geekhub.ck.ua) volunteering IT platform. Seventh season in a row
-- 📫 Hit me up on [y.brahinets@gmail.com](mailto:y.brahinets@gmail.com)
-- 🔗 Look at my experience at [LinkedIn](https://www.linkedin.com/in/yaroslav-brahinets-a53254a0/)
-  
+
+## 📫Reach me out
+[![Linkedin Badge](https://img.shields.io/badge/-Yaroslav_Brahinets-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-brahinets-a53254a0) 
+[![Mail Badge](https://img.shields.io/badge/-Yaroslav_Brahinets-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:y.brahinets@gmail.com)
+
 ## Outside of coding I enjoy
 - 👟 Daily running. Follow me in [Strava](https://www.strava.com/athletes/ybrahinets)
 - 🇫🇷 3 years streak in learning french on [Duolingo](https://www.duolingo.com/profile/takeshi.1)
