@@ -30,3 +30,4 @@ and [![paradoxxx_ua](https://img.shields.io/badge/Steam-%23000000?style=flat&log
 ## 📊 GitHub Stat:
 ![](https://github-readme-stats.vercel.app/api?username=brahinets&theme=light&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brahinets&theme=light&hide_border=true)
+[![Yaroslav Brahinets](https://u8views.com/api/v1/github/profiles/4119411/views/day-week-month-total-count.svg)](https://u8views.com/github/brahinets)
