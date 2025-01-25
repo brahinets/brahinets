@@ -11,8 +11,8 @@ Enabling engineering of Marketing domain at [PitchBook](https://pitchbook.com). 
 [![Mail Badge](https://img.shields.io/badge/-Yaroslav_Brahinets-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:y.brahinets@gmail.com)
 
 ## Outside of coding I enjoy
-- 👟 Daily running. Follow me in [Strava](https://www.strava.com/athletes/ybrahinets)
-- 🇫🇷 3 years streak in learning french on [Duolingo](https://www.duolingo.com/profile/takeshi.1)
+- 👟 Daily running since August 2023. Follow me in [Strava](https://www.strava.com/athletes/ybrahinets)
+- 🇫🇷 4 years streak in learning french on [Duolingo](https://www.duolingo.com/profile/takeshi.1)
 - 📚 Check my readings out on [Goodreads](https://www.goodreads.com/user/show/77513249)
 - 💻 Workin' out my brain by [![LeetCode](https://img.shields.io/badge/-LeetCode-c0392b?style=flat&labelColor=0e76a8&logo=leetcode&logoColor=white)](https://leetcode.com/u/brahinets/)
 - 📹 Practicing videocut, give me a comment on [![YouYube](https://img.shields.io/badge/-Voyages_et_Sports-c0392b?style=flat&labelColor=c0392b&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3k03B6omo_qA4k48A4V3JQ)
