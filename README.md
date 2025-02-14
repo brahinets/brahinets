@@ -15,11 +15,9 @@ Enabling engineering of Marketing domain at [PitchBook](https://pitchbook.com). 
 - 🇫🇷 4 years streak in learning french on [Duolingo](https://www.duolingo.com/profile/takeshi.1)
 - 📚 Check my readings out on [Goodreads](https://www.goodreads.com/user/show/77513249)
 - 💻 Workin' out my brain by [![LeetCode](https://img.shields.io/badge/-LeetCode-c0392b?style=flat&labelColor=0e76a8&logo=leetcode&logoColor=white)](https://leetcode.com/u/brahinets/)
-- 📹 Practicing videocut, give me a comment on [![YouYube](https://img.shields.io/badge/-Voyages_et_Sports-c0392b?style=flat&labelColor=c0392b&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3k03B6omo_qA4k48A4V3JQ)
+- 📹 Practicing videocut. Give me a comment on my [![YouYube Channel](https://img.shields.io/badge/-Voyages_et_Sports-c0392b?style=flat&labelColor=c0392b&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3k03B6omo_qA4k48A4V3JQ)
 - 🌱 Mentored at [GeekHub](https://geekhub.ck.ua) volunteering IT platform. Seven seasons in a row
-- 🎮 Sometimes I play games 
-![ysb#2173](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=flat&logo=battle.net&logoColor=white)
-and [![paradoxxx_ua](https://img.shields.io/badge/Steam-%23000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/paradoxxx_ua)
+- 🎮 Sometimes I play videogames [![paradoxxx_ua](https://img.shields.io/badge/Steam-%23000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/paradoxxx_ua)
 
 ## 📙 The latest blog posts:
 - [gRPC - RPC is back?](https://spd-technology.medium.com/grpc-rpc-is-back-921da7a1de29)
