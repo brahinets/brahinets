@@ -1,6 +1,6 @@
 ## Enchanté 👋🏼
 
-I'm _Yarosláv_ - lifelong learner and security enthusiast. Engineering Manager at [SPD Technology](https://spd.tech/author/y-brahinets/). Coding with a passion since 2014. 🇺🇦 Ukraine is my motherland
+I'm _Yarosláv_, friends call me just Yaro. I am a lifelong learner and security enthusiast. Engineering Manager at [SPD Technology](https://spd.tech/author/y-brahinets/). Coding with a passion since 2014. 🇺🇦 Ukraine is my motherland
 
 ## About me
 
