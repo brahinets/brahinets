@@ -20,7 +20,7 @@ Enabling engineering of Marketing domain at [PitchBook](https://pitchbook.com). 
 - 🎮 Sometimes I play videogames [![paradoxxx_ua](https://img.shields.io/badge/Steam-%23000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/paradoxxx_ua)
 
 ## 📙 The latest blog posts:
-- [Learning resourcess I enojoyed the most](https://brahinets.github.io/learner-corner)
+- [Learning resourcess I enjoyed the most](https://brahinets.github.io/learner-corner)
 - [gRPC - RPC is back?](https://spd-technology.medium.com/grpc-rpc-is-back-921da7a1de29)
 - [gRPC Integration Experience](https://tproger.ru/articles/grpc-integration-experience/)
 - [Hiring Java engineers in 2022](https://spd.tech/java-software-development/hire-java-developers-in-2022)
