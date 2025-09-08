@@ -4,7 +4,7 @@ I'm _Yarosláv_, friends call me just Yaro. I am a lifelong learner and security
 
 ## About me
 
-Enabling engineering of Marketing domain at [PitchBook](https://pitchbook.com). Previsouly delved my skills in _Identity and Access Management_ along with *Application Security* on internal and external products.
+Enabling engineering of Digital Marketing domain at [PitchBook](https://pitchbook.com). Previsouly delved my skills in _Identity and Access Management_ along with *Application Security* on internal and external products.
 
 ## 📫Reach me out
 [![Linkedin Badge](https://img.shields.io/badge/-Yaroslav_Brahinets-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-brahinets-a53254a0) 
