@@ -27,6 +27,6 @@ Enabling engineering of Digital Marketing domain at [PitchBook](https://pitchboo
 - [Hiring Java engineers in 2022](https://spd.tech/java-software-development/hire-java-developers-in-2022)
 
 ## 📊 GitHub Stat:
-![](https://github-readme-stats.vercel.app/api?username=brahinets&theme=light&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=brahinets&theme=light&hide_border=true)
+
+[![Yaroslav Brahinets](https://github-readme-streak-stats.herokuapp.com/?user=brahinets&theme=light&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=brahinets&theme=light&hide_border=true)
 [![Yaroslav Brahinets](https://u8views.com/api/v1/github/profiles/4119411/views/day-week-month-total-count.svg)](https://u8views.com/github/brahinets)
